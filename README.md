@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
     </h2>
     
-<div align ="left">
+<div>
   <a href="https://github.com/caiocipriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocipriano&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocipriano&layout=compact&langs_count=7&theme=prussian "/>
