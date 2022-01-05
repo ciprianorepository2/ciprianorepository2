@@ -7,19 +7,19 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
     </h2>
     
-<div>
+<!--<div>
   <a href="https://github.com/caiocipriano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocipriano&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocipriano&layout=compact&langs_count=7&theme=prussian "/>
-</div> 
+</div> -->
   
 <h4>  
-<p>-👨‍🎓 Estudante em Ciência da Computação, atualmente cursando o 4° Período.
+<p>-👨‍🎓 Estudante em Ciência da Computação, atualmente cursando o 5° Período.
 <p>-🎯 Interesses: Java, Spring Boot, MicroServices, Docker.
 <p>-🎮 Gosta de jogar jogos Cooperativos.
   </h4>
 
-<h2>Skills🎯</h2>
+<!--<h2>Skills🎯</h2>
 <div align="center">
   <img align="center" alt="Rafa-Java" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Caio-MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--<img align="center" alt="Caio-Js" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-->
+  <!--<img align="center" alt="Caio-Js" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caio-Git" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+</div> -->
 
 ## Contact📱
 
