@@ -31,11 +31,21 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2>Tools🎯</h2>
 <div>
-<img align="left" alt="JS" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="left" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+&nbsp;&nbsp;
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+&nbsp;&nbsp;
+<img  width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 <br>
+
+
+
+
+
+
+
+
 <h2>Skills🎯</h2>
 <p align="center">
     <a href="https://github.com/caiocipriano">
